@@ -1,4 +1,4 @@
-## 🖥️ Landing Page Danki Code 🖥️
+## 🖥️ Danki Code Landing Page🖥️
 
 ### Resumo do Projeto 📄
 Fiz uma landing page, seguindo o tutorial da Danki Code e as dicas do professor Guilherme Grillo.
