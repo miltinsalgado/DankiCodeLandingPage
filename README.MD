@@ -17,5 +17,7 @@ O projeto é é baseado em uma imagem disponibilizada no curso de uma landing pa
 Essa página, por mais simples que seja, é a primeira na qual aplico um design responsivo e divisões de página mais concretas, além de um estilo mais adaptado e conceitual.
 
 Agradeço a sua atenção e leitura deste documento!
+
 Atenciosamente, 
+
 Milton Salgado ⚡
