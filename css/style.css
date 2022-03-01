@@ -11,7 +11,7 @@ html, body{
 
 @font-face{
     font-family: "Open Sans";
-    src: url("/fonts/OpenSans/static/OpenSans/OpenSans-Light.ttf");
+    src: url("/fonts/OpenSans/static/OpenSans/OpenSans-Regular.ttf");
 }
 
 .clear{
