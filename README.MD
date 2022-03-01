@@ -7,7 +7,7 @@ Fiz uma landing page, seguindo o tutorial da Danki Code e as dicas do professor 
 
 ### Prévia do Projeto 🖼️
 <div align="center">
-    <img height="800em" src="images/landing_page_danki.png">
+    <img height="600em" src="images/landing_page_danki.png">
 </div>
 
 ##
