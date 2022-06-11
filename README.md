@@ -1,6 +1,7 @@
 ## 🖥️ Danki Code Landing Page 🖥️
 
 ### 📄 Resumo do Projeto 📄
+
 Fiz uma landing page, seguindo o tutorial da Danki Code e as dicas do professor Guilherme Grillo.
 
 <hr>
@@ -8,12 +9,13 @@ Fiz uma landing page, seguindo o tutorial da Danki Code e as dicas do professor 
 ### 🖼️ Prévia do Projeto 🖼️
 
 <div align="center">
-    <img height="600em" src="images/demo/landing_page_danki_index.jpg">
+  <img height="600em" src="images/demo/landing_page_danki_index.jpg">
 </div>
 
 <hr>
 
 ### 📖 Descrição do Projeto 📖
+
 O projeto é é baseado em uma imagem disponibilizada no curso de uma landing page experimental da Danki Code.
 Essa página, por mais simples que seja, é a primeira na qual aplico um design responsivo e divisões de página mais concretas, além de um estilo mais adaptado e conceitual.
 
