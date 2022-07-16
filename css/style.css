@@ -1,41 +1,41 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "Open Sans";
 }
 
-html, body{
+html, body {
     height: 100%;
 }
 
-@font-face{
+@font-face {
     font-family: "Open Sans";
     src: url("/fonts/OpenSans/static/OpenSans/OpenSans-Regular.ttf");
 }
 
-.clear{
+.clear {
     clear: both;
 }
 
-.center{
+.center {
     max-width: 1280px;
     width: 100%;
     margin: 0 auto;
 }
 
-.header{
+.header {
     width: 100%;
     padding: 0 2%;
     height: 60px;
     background-color: #212343;
 }
 
-.header img{
+.header img {
     margin: 15px;
 }
 
-.container-banner{
+.container-banner {
     width: 100%;
     padding: 0 2%;
     height: 557px;
@@ -44,11 +44,11 @@ html, body{
     background-position: center;
 }
 
-.container-banner > .center{
+.container-banner > .center {
     height: 100%;
 }
 
-.container-list{
+.container-list {
     padding: 30px;
     margin-top: 100px;
     float: left;
@@ -57,16 +57,16 @@ html, body{
     background-color: rgba(33, 35, 67, 0.7);
 }
 
-.container-list ul{
+.container-list ul {
     list-style-position: inside;
 }
 
-.container-list ul li{
+.container-list ul li {
     color: white;
     margin-top: 18px;
 }
 
-.form{
+.form {
     padding: 10px;
     width: 400px;
     height: calc(100% + 30px);
@@ -78,30 +78,30 @@ html, body{
     background-clip: padding-box;
 }
 
-.form h2{
+.form h2 {
     font-weight: normal;
     font-size: 21px;
     color: #999999;
 }
 
-.input-container{
+.input-container {
     margin-top: 20px;
 }
 
-.input-container span{
+.input-container span {
     display: inline-block;
     width: 100%;
     color: #BBBBBB;
 }
 
-.form .warning{
+.form .warning {
     display: inline-block;
     width: 100%;
     color: #BBBBBB;
     margin: 20px 0;
 }
 
-.input-container input[type="text"], input[type="email"], input[type="tel"]{
+.input-container input[type="text"], input[type="email"], input[type="tel"] {
     margin-top: 8px;
     width: 344px;
     height: 55px;
@@ -109,15 +109,15 @@ html, body{
     padding: 2%;
 }
 
-.input-container input[type="text"]:focus, input[type="email"]:focus, input[type="tel"]:focus{
+.input-container input[type="text"]:focus, input[type="email"]:focus, input[type="tel"]:focus {
     outline: none;
 }
 
-.form .input-submit-container{
+.form .input-submit-container {
     text-align: center;
 }
 
-.input-submit-container input[type="submit"]{
+.input-submit-container input[type="submit"] {
     width: 280px;
     height: 56px;
     border: none;
@@ -129,21 +129,21 @@ html, body{
     cursor: pointer;
 }
 
-.form input[type="submit"]:hover{
+.form input[type="submit"]:hover {
     background-color: #323665;
 }
 
-.container-info{
+.container-info {
     padding: 40px 2%;
     background-color: #DDDDDD;
     text-align: center;
 }
 
-.container-info h2{
+.container-info h2 {
     font-weight: normal;
 }
 
-.container-info p{
+.container-info p {
     margin: 15px 0;
     width: 100%;
     max-width: 768px;
@@ -151,7 +151,7 @@ html, body{
     text-align: justify;
 }
 
-.arrow{
+.arrow {
     position: relative;
     top: 60px;
     left: 50%;
@@ -162,67 +162,67 @@ html, body{
     background-size: 100% 100%;
 }
 
-.section{
+.section {
     padding: 90px 2%;
 }
 
-.section h2{
+.section h2 {
     text-align: center;
     color: #462663;
     font-weight: normal;
 }
 
-.container-section{
+.container-section {
     margin-top: 40px;
     text-align: center;
 }
 
-.container-single{
+.container-single {
     float: left;
     width: 33.3333%;
     padding: 30px;
 }
 
-.container-single img{
+.container-single img {
     width: 70px;
 }
 
-.container-single p{
+.container-single p {
     text-align: justify;
     padding: 10px 25px;
 }
 
-.footer{
+.footer {
     border-top: 2px solid #888888;
     padding: 20px 0;
     text-align: center;
     color: #888;
 }
 
-.footer p{
+.footer p {
     margin-top: 8px;
 }
 
-@media screen and (max-width: 1024px){
-    .header{
+@media screen and (max-width: 1024px) {
+    .header {
         width: 100%;
         height: auto;
         padding: 15px 0;
         text-align: center;
     }
     
-    .header img{
+    .header img {
         margin: 0;
     }
 
-    .container-banner{
+    .container-banner {
         width: 100%;
         padding: 40px 2%;
         height: auto;
         text-align: center;
     }
     
-    .container-list{
+    .container-list {
         margin-top: 10px;
         padding: 30px 0;
         float: left;
@@ -231,7 +231,7 @@ html, body{
         height: auto;
     }
 
-    .form{
+    .form {
         padding: 10px;
         width: 60%;
         max-width: 400px;
@@ -241,38 +241,37 @@ html, body{
         top: 0;
     }
 
-    .input-container input[type="text"], input[type="email"], input[type="tel"]{
+    .input-container input[type="text"], input[type="email"], input[type="tel"] {
         width: 100%;
         height: 55px;
     }
     
-    .input-submit-container input[type="submit"]{
+    .input-submit-container input[type="submit"] {
         width: 100%;
         max-width: 280px;
         height: 56px;
     }
 
-    .container-info .center{
+    .container-info .center {
         padding: 2%;
     }
-
 }
 
-@media screen and (max-width: 768px){
-    .container-list{
+@media screen and (max-width: 768px) {
+    .container-list {
         width: 100%;
         float: none;
         display: inline-block;
     }
 
-    .form{
+    .form {
         margin-top: 30px;
         width: 90%;
         float: none;
         display: inline-block;
     }
 
-    .container-single{
+    .container-single {
         float: none;
         width: 100%;
         max-width: 600px;
